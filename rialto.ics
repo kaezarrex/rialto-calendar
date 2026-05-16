@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rialto Calendar Bot//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Rialto Events
+X-WR-CALDESC:Upcoming events at The Rialto Theatre\, 1620 Glenwood Ave\, Ra
+ leigh\, NC 27608
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:02bac82fab3ca9e2d80e47e76148fc10@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260518T230000Z
+DTEND:20260519T010000Z
+SUMMARY:Event at The Rialto
+DESCRIPTION:Doors 6:30 PM. Tickets $11. Check therialto.com for artist deta
+ ils.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb4bee36e39c66d87e6927950ef7c70@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260519T230000Z
+DTEND:20260520T010000Z
+SUMMARY:Event at The Rialto
+DESCRIPTION:Doors 6:30 PM. Tickets $11. Check therialto.com for artist deta
+ ils.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:737e343bde7f17a16a2ba13444234859@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260520T230000Z
+DTEND:20260521T010000Z
+SUMMARY:Event at The Rialto
+DESCRIPTION:Doors 6:30 PM. Tickets $11. Check therialto.com for artist deta
+ ils.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:598eac35519faba0be95b888977fd4da@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260521T230000Z
+DTEND:20260522T010000Z
+SUMMARY:Event at The Rialto
+DESCRIPTION:Doors 6:30 PM. Tickets $11. Check therialto.com for artist deta
+ ils.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:ce466ba9cce3220718c174aacea1a941@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260523T223000Z
+DTEND:20260524T003000Z
+SUMMARY:Candlelight: The Best of Hans Zimmer
+DESCRIPTION:Candlelight concert featuring the best of Hans Zimmer performed
+  live. Doors 5:45 PM. Tickets $38–$73.50. All ages.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:2fbd0cd96d731bbfa4785d3d9b68916b@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260524T004500Z
+DTEND:20260524T024500Z
+SUMMARY:Candlelight: Tribute to Adele
+DESCRIPTION:Candlelight concert: Tribute to Adele performed live. Doors 7:4
+ 5 PM. Tickets $32–$73.50. All ages.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:f65df3069576429ccb85414eab94352d@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260526T230000Z
+DTEND:20260527T010000Z
+SUMMARY:Lincoln Theatre and The Rialto Present
+DESCRIPTION:Co-presented by Lincoln Theatre and The Rialto. Doors 6:15 PM. 
+ Tickets $16.50. Check therialto.com for artist details.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e5597e187d83fb9bf795f4d4f4ae2a@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260530T035500Z
+DTEND:20260530T055500Z
+SUMMARY:The Rocky Horror Picture Show with The Low Down Cheap Little Punks
+DESCRIPTION:The Low Down Cheap Little Punks perform live during a screening
+  of The Rocky Horror Picture Show. Doors 8:35 PM\, Show 9 PM. Tickets $11.
+URL:https://therialto.com/events/category/series/rocky-at-the-rialto/the-ri
+ alto-theatre/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:6477894f5d6c0aebfc594ae77f4a5b39@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260530T223000Z
+DTEND:20260531T003000Z
+SUMMARY:Concert at The Rialto
+DESCRIPTION:All ages show. Doors 5:30 PM. Tickets $27.50–$103.50. Check t
+ herialto.com for artist details.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:56f5d81f6a087cbd8b72fb74df4cde51@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260601T230000Z
+DTEND:20260602T010000Z
+SUMMARY:Stop Making Sense (Talking Heads)
+DESCRIPTION:Monthly screening of the Talking Heads concert film 'Stop Makin
+ g Sense' — restored in 4K. The greatest concert film ever made\, directe
+ d by Jonathan Demme. Doors 6:30 PM. Tickets $11.
+URL:https://therialto.com/events/category/series/stop-making-sense-40th-ann
+ iversary/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:c340445d1922c358ce50855de933d705@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260602T230000Z
+DTEND:20260603T010000Z
+SUMMARY:NC Modernist Movie Series
+DESCRIPTION:NCModernist movie series screening. Doors 6:15 PM. Tickets $17.
+ 60.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:645125e15dd1c9e2fc9579b6002055bc@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260606T035500Z
+DTEND:20260606T055500Z
+SUMMARY:The Rocky Horror Picture Show with The Low Down Cheap Little Punks
+DESCRIPTION:The Low Down Cheap Little Punks perform live during a screening
+  of The Rocky Horror Picture Show. Doors 11:30 PM. Tickets $11.
+URL:https://therialto.com/events/category/series/rocky-at-the-rialto/the-ri
+ alto-theatre/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:e25fca7e3738142c98ac3a3ab806ee41@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260613T230000Z
+DTEND:20260614T010000Z
+SUMMARY:Free Show at The Rialto
+DESCRIPTION:Free admission. Doors 6:30 PM. Check therialto.com for artist d
+ etails.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:60e7d99182f70b85570b391296608e68@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:Event at The Rialto (On Sale 5/20)
+DESCRIPTION:Doors 6:30 PM. Tickets on sale May 20. Check therialto.com for 
+ artist and ticket details.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:814aec26e9dbc1b913c568734e37c630@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260619T180000Z
+DTEND:20260619T200000Z
+SUMMARY:Soccer.com and Adidas Presentation
+DESCRIPTION:Soccer.com and Adidas present a special event at The Rialto The
+ atre. Show at 2 PM.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:070aab0e663404d48261ca1680248fb4@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260620T035500Z
+DTEND:20260620T055500Z
+SUMMARY:The Rocky Horror Picture Show with The Low Down Cheap Little Punks
+DESCRIPTION:The Low Down Cheap Little Punks perform live during a screening
+  of The Rocky Horror Picture Show. Doors 11:30 PM. Tickets $11.
+URL:https://therialto.com/events/category/series/rocky-at-the-rialto/the-ri
+ alto-theatre/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:0c4b6f0fcd15b22c4626759427c9ceb3@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260727T000000Z
+DTEND:20260727T020000Z
+SUMMARY:Concert at The Rialto
+DESCRIPTION:Doors 7 PM. Tickets $36–$56.50. Check therialto.com for artis
+ t details.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:fbca1b56bf2b3b4fa1817d9064194d10@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260808T230000Z
+DTEND:20260809T010000Z
+SUMMARY:Five Points Short Film Festival – Thursday
+DESCRIPTION:Five Points Short Film Festival — Night 1 (Thursday). Short f
+ ilms selected from nearly 50 submissions. Tickets available for single nig
+ ht or 2-day pass.
+URL:https://therialto.com/event/five-points-short-film-festival-thursday-on
+ ly-2/the-rialto-theatre/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:a6c2e98c4694e2a19b9d4d31deb9357b@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260809T230000Z
+DTEND:20260810T010000Z
+SUMMARY:Five Points Short Film Festival – Friday
+DESCRIPTION:Five Points Short Film Festival — Night 2 (Friday). Short fil
+ ms selected from nearly 50 submissions. Tickets available for single night
+  or 2-day pass.
+URL:https://therialto.com/event/five-points-short-film-festival-friday-only
+ -2/the-rialto-theatre/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb634af971ee96d04d359b79bf2d584@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260829T000000Z
+DTEND:20260829T020000Z
+SUMMARY:Concert at The Rialto
+DESCRIPTION:Doors 7 PM. Tickets $56.50–$91.50. Check therialto.com for ar
+ tist details.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:3088e98f5a11d69faf3e56e8046aa4e3@therialto.com
+DTSTAMP:20260516T201101Z
+DTSTART:20260913T000000Z
+DTEND:20260913T020000Z
+SUMMARY:Scythian
+DESCRIPTION:Scythian live at The Rialto Theatre\, Raleigh. Doors 7 PM. Tick
+ ets $41.50–$56.50.
+URL:https://therialto.com/events/
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+END:VCALENDAR
