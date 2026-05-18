@@ -25,224 +25,253 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bf7e2a8ca89e243faeea4847fc097f37@therialto.com
-DTSTAMP:20260516T213534Z
+UID:76a86893bf4e5f434f6be436b3b6cb47@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260518T190000
 DTEND;TZID=America/New_York:20260518T210000
-SUMMARY:Event at The Rialto (Film Screening)
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+SUMMARY:Film Screening at The Rialto
+DESCRIPTION:Film screening. Doors 6:30 PM / Show 7:00 PM. $11. Visit theria
+ lto.com for title.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Film screening. $11. Doors 6:30 PM / Show 7:00 PM. Visit theria
- lto.com for film title.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
-UID:59cf92a8cc007ccbad05dc7338eda0fb@therialto.com
-DTSTAMP:20260516T213534Z
+UID:35a6566b7bf80b693551340544094379@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260519T190000
 DTEND;TZID=America/New_York:20260519T210000
-SUMMARY:Event at The Rialto (Film Screening)
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+SUMMARY:Film Screening at The Rialto
+DESCRIPTION:Film screening. Doors 6:30 PM / Show 7:00 PM. $11. Visit theria
+ lto.com for title.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Film screening. $11. Doors 6:30 PM / Show 7:00 PM. Visit theria
- lto.com for film title.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
-UID:d7fc903fc9bb01132e97efdb175cb67a@therialto.com
-DTSTAMP:20260516T213534Z
+UID:9a98b4d5afe85c4b21afd3bbfc6e859d@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260520T190000
 DTEND;TZID=America/New_York:20260520T210000
-SUMMARY:Event at The Rialto (Film Screening)
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+SUMMARY:Film Screening at The Rialto
+DESCRIPTION:Film screening. Doors 6:30 PM / Show 7:00 PM. $11. Visit theria
+ lto.com for title.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Film screening. $11. Doors 6:30 PM / Show 7:00 PM. Visit theria
- lto.com for film title.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
-UID:f1f3b6e66373d8996f96abcb0eed7714@therialto.com
-DTSTAMP:20260516T213534Z
+UID:7cae69b8324a8aedcc2d2bbdd1d0f922@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260521T190000
 DTEND;TZID=America/New_York:20260521T210000
-SUMMARY:Event at The Rialto (Film Screening)
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+SUMMARY:Film Screening at The Rialto
+DESCRIPTION:Film screening. Doors 6:30 PM / Show 7:00 PM. $11. Visit theria
+ lto.com for title.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Film screening. $11. Doors 6:30 PM / Show 7:00 PM. Visit theria
- lto.com for film title.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
 UID:a3c87f0d50cc0b0f0d861116329e7817@therialto.com
-DTSTAMP:20260516T213534Z
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260523T183000
 DTEND;TZID=America/New_York:20260523T200000
 SUMMARY:Candlelight: The Best of Hans Zimmer
+DESCRIPTION:Candlelight concert — The Best of Hans Zimmer performed by a 
+ string quartet. Doors 5:45 PM / Show 6:30 PM. Tickets $38–$73.50.
+URL:https://feverup.com/en/raleigh/candlelight
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://feverup.com/m/270989
-DESCRIPTION:Immersive candlelight concert featuring music by Hans Zimmer. D
- oors 5:45 PM / Show 6:30 PM. Tickets $38-$73.50.
 END:VEVENT
 BEGIN:VEVENT
 UID:c2a589b10f192b06db373109872a0dcc@therialto.com
-DTSTAMP:20260516T213534Z
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260523T204500
-DTEND;TZID=America/New_York:20260523T220000
+DTEND;TZID=America/New_York:20260523T224500
 SUMMARY:Candlelight: Tribute to Adele
+DESCRIPTION:Candlelight concert — Tribute to Adele performed by a string 
+ quartet. Doors 7:45 PM / Show 8:45 PM. Tickets $32–$73.50.
+URL:https://concerts50.com/show/candlelight-tribute-to-adele-in-raleigh-tic
+ kets-may-23-2026
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://feverup.com/m/625835
-DESCRIPTION:Immersive candlelight tribute to Adele. Doors 7:45 PM / Show 8:
- 45 PM. Tickets $32-$73.50.
 END:VEVENT
 BEGIN:VEVENT
-UID:0e5a2831740aca5fcd620bd89465a26f@therialto.com
-DTSTAMP:20260516T213534Z
+UID:3932470feda77c1f852c392097ddd24e@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260526T190000
 DTEND;TZID=America/New_York:20260526T210000
-SUMMARY:Lincoln Theater & The Rialto Present (Film TBA)
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+SUMMARY:Lincoln Theater & The Rialto Present (Film Screening)
+DESCRIPTION:Co-presented special film screening by Lincoln Theater and The 
+ Rialto. Doors 6:15 PM / Show 7:00 PM. $16.50.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Co-presented special film screening. Doors 6:15 PM / Show 7:00 
- PM. $16.50.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
-UID:20c5c13c79ccadbfd31c2e51423c436d@therialto.com
-DTSTAMP:20260516T213534Z
+UID:c234cd8a7a1d2faf10dac1784dab9eb7@therialto.com
+DTSTAMP:20260518T120000Z
+DTSTART;TZID=America/New_York:20260529T210000
+DTEND;TZID=America/New_York:20260529T230000
+SUMMARY:The Low Down Cheap Little Punks — Rocky Horror Shadowcast
+DESCRIPTION:Raleigh's Rocky Horror Picture Show live shadowcast. Doors 8:35
+  PM / Show 9:00 PM. $11.
+URL:https://www.etix.com/ticket/v/29980/the-rialto
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:ed522ae66766b5bcc35b1d05e6b1a237@therialto.com
+DTSTAMP:20260518T120000Z
+DTSTART;TZID=America/New_York:20260530T183000
+DTEND;TZID=America/New_York:20260530T203000
+SUMMARY:Concert at The Rialto (All Ages)
+DESCRIPTION:All-ages concert event at The Rialto. Doors 5:30 PM / Show 6:30
+  PM. Tickets $27.50–$103.50. Artist TBA — visit therialto.com for deta
+ ils.
+URL:https://www.etix.com/ticket/v/29980/the-rialto
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3ea2b4214a79d921aa8b7955776c76@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260601T190000
 DTEND;TZID=America/New_York:20260601T210000
-SUMMARY:Stop Making Sense (Monthly Screening)
+SUMMARY:Film Screening at The Rialto
+DESCRIPTION:Film screening. Doors 6:30 PM / Show 7:00 PM. $11. Visit theria
+ lto.com for title.
+URL:https://www.etix.com/ticket/v/29980/the-rialto
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://therialto.com/event/stop-making-sense-12/the-rialto-theatre/
-DESCRIPTION:Monthly screening of the Talking Heads concert film Stop Making
-  Sense (1984). Music at the Movies series. $11. Doors 6:30 PM / Show 7:00 
- PM.
 END:VEVENT
 BEGIN:VEVENT
-UID:c014319aa479bc975e318edd9671e389@therialto.com
-DTSTAMP:20260516T213534Z
+UID:bf169ebc2f7638a93c80be0a5c2dccb3@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260602T190000
 DTEND;TZID=America/New_York:20260602T210000
-SUMMARY:NCModernist Movie Series
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://www.etix.com/ticket/v/29980/the-rialto
+SUMMARY:NCModernist Architecture Film Series
 DESCRIPTION:NCModernist architecture film series by NC Modernist nonprofit.
   Doors 6:15 PM / Show 7:00 PM. $17.60.
+URL:https://www.etix.com/ticket/v/29980/the-rialto
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
-UID:b3bb9acb1fb91428b6ab3eeb2ca610be@therialto.com
-DTSTAMP:20260516T213534Z
+UID:fb9245d86ada831da4b72a5aed6b9469@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260605T235500
 DTEND;TZID=America/New_York:20260606T015500
-SUMMARY:The Low Down Cheap Little Punks
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+SUMMARY:The Low Down Cheap Little Punks — Rocky Horror Shadowcast
+DESCRIPTION:Raleigh's Rocky Horror Picture Show live shadowcast. Doors 11:3
+ 0 PM / Show 11:55 PM. $11.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Late-night live music. Doors 11:30 PM / Show 11:55 PM. $11.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
 UID:a198377fb8d5cc10adc9c4d5170d1d8d@therialto.com
-DTSTAMP:20260516T213534Z
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260613T190000
 DTEND;TZID=America/New_York:20260613T210000
 SUMMARY:Free Show at The Rialto
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Free community event at The Rialto. Doors 6:30 PM / Show 7:00 P
+ M. No ticket required. Visit therialto.com for details.
 URL:https://therialto.com/events/
-DESCRIPTION:Free community event. Doors 6:30 PM / Show 7:00 PM. No ticket r
- equired.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
 UID:381d801ccbb1fb551fc89fa0c03522b5@therialto.com
-DTSTAMP:20260516T213534Z
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260617T190000
 DTEND;TZID=America/New_York:20260617T210000
 SUMMARY:Event at The Rialto (Details TBA)
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Event details announced soon — tickets on sale 5/20. Doors 6:
+ 30 PM / Show 7:00 PM. Visit therialto.com for details.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Event details announced after 5/20. Doors 6:30 PM / Show 7:00 P
- M.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
-UID:08602a687174767dfb751b2a190a8945@therialto.com
-DTSTAMP:20260516T213534Z
+UID:5488401a6e28d2ea51690f8276761401@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260619T235500
 DTEND;TZID=America/New_York:20260620T015500
-SUMMARY:The Low Down Cheap Little Punks
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+SUMMARY:The Low Down Cheap Little Punks — Rocky Horror Shadowcast
+DESCRIPTION:Raleigh's Rocky Horror Picture Show live shadowcast. Doors 11:3
+ 0 PM / Show 11:55 PM. $11.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Late-night live music. Doors 11:30 PM / Show 11:55 PM. $11.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
 UID:9986c5508b23bc6c5ae382b25c08d002@therialto.com
-DTSTAMP:20260516T213534Z
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260706T190000
 DTEND;TZID=America/New_York:20260706T210000
 SUMMARY:Stop Making Sense (Monthly Screening)
+DESCRIPTION:Monthly screening of the acclaimed 1984 Talking Heads concert f
+ ilm Stop Making Sense. Music at the Movies series. Doors 6:30 PM / Show 7:
+ 00 PM. $11.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://therialto.com/event/stop-making-sense-12/the-rialto-theatre/
-DESCRIPTION:Monthly screening of Talking Heads concert film Stop Making Sen
- se (1984). $11. Doors 6:30 PM / Show 7:00 PM.
 END:VEVENT
 BEGIN:VEVENT
 UID:3f54329f55e8d2fcef84830ab3caeb83@therialto.com
-DTSTAMP:20260516T213534Z
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260726T200000
 DTEND;TZID=America/New_York:20260726T220000
 SUMMARY:Concert at The Rialto
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Live concert. Doors 7:00 PM / Show 8:00 PM. Tickets $36–$56.5
+ 0. Artist TBA — visit therialto.com for details.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Live concert. Doors 7:00 PM / Show 8:00 PM. Tickets $36-$56.50.
-  Artist TBA.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 BEGIN:VEVENT
 UID:70e041c688bb970e3219a944bbd1089c@therialto.com
-DTSTAMP:20260516T213534Z
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260803T190000
 DTEND;TZID=America/New_York:20260803T210000
 SUMMARY:Stop Making Sense (Monthly Screening)
+DESCRIPTION:Monthly screening of the acclaimed 1984 Talking Heads concert f
+ ilm Stop Making Sense. Music at the Movies series. Doors 6:30 PM / Show 7:
+ 00 PM. $11.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://therialto.com/event/stop-making-sense-12/the-rialto-theatre/
-DESCRIPTION:Monthly screening of Talking Heads concert film Stop Making Sen
- se (1984). $11. Doors 6:30 PM / Show 7:00 PM.
 END:VEVENT
 BEGIN:VEVENT
-UID:6bcd3ffca29433e4cfa5dce4e99a32ce@therialto.com
-DTSTAMP:20260516T213534Z
+UID:226c543ac07112ac86a72b55fc09acc7@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260806T190000
 DTEND;TZID=America/New_York:20260806T230000
-SUMMARY:Five Points Short Film Festival - Thursday
+SUMMARY:Five Points Short Film Festival — Thursday
+DESCRIPTION:Five Points Short Film Festival — Thursday night. Two-night f
+ estival of short films from local and national filmmakers. Thursday-only p
+ ass. Visit therialto.com for tickets.
+URL:https://therialto.com/events/
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://therialto.com/event/five-points-short-film-festival-thursday-on
- ly-2/the-rialto-theatre/
-DESCRIPTION:Five Points Short FilmFest. Two nights of short films from loca
- l and national filmmakers. Thursday-only pass.
 END:VEVENT
 BEGIN:VEVENT
-UID:0e9998f45a47c2ad3d04987a048a9540@therialto.com
-DTSTAMP:20260516T213534Z
+UID:b2955a82671375b5512edc8c386e86be@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260807T190000
 DTEND;TZID=America/New_York:20260807T230000
-SUMMARY:Five Points Short Film Festival - Friday
+SUMMARY:Five Points Short Film Festival — Friday
+DESCRIPTION:Five Points Short Film Festival — Friday night. Two-night fes
+ tival of short films from local and national filmmakers. Friday-only pass.
+  Visit therialto.com for tickets.
+URL:https://therialto.com/events/
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://therialto.com/event/five-points-short-film-festival-friday-only
- -2/the-rialto-theatre/
-DESCRIPTION:Five Points Short FilmFest. Two nights of short films from loca
- l and national filmmakers. Friday-only pass.
 END:VEVENT
 BEGIN:VEVENT
-UID:aaca92199a6f4bb32997397eed2c6128@therialto.com
-DTSTAMP:20260516T213534Z
+UID:2b71ea55a1df2fb419ee2c2ababcb244@therialto.com
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260828T200000
 DTEND;TZID=America/New_York:20260828T220000
-SUMMARY:Paula Poundstone: Live Comedy
+SUMMARY:Paula Poundstone: Live Stand-Up Comedy
+DESCRIPTION:Paula Poundstone performs live stand-up comedy at The Rialto. D
+ oors 7:00 PM / Show 8:00 PM. Tickets $56.50–$91.50.
+URL:https://therialto.com/event/paula-poundstone/the-rialto-theatre/
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Paula Poundstone performs live stand-up comedy. Doors 7:00 PM /
-  Show 8:00 PM. Tickets $56.50-$91.50.
 END:VEVENT
 BEGIN:VEVENT
 UID:07cec3e137524e071121e3234f622316@therialto.com
-DTSTAMP:20260516T213534Z
+DTSTAMP:20260518T120000Z
 DTSTART;TZID=America/New_York:20260912T200000
 DTEND;TZID=America/New_York:20260912T220000
 SUMMARY:Concert/Event at The Rialto
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Live event. Doors 7:00 PM / Show 8:00 PM. Tickets $41.50–$56.
+ 50. Details TBA — visit therialto.com for more info.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-DESCRIPTION:Live event. Doors 7:00 PM / Show 8:00 PM. Tickets $41.50-$56.50
- . Details TBA.
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
 END:VCALENDAR
