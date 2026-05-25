@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Rialto Calendar Bot//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:The Rialto Events
+X-WR-CALNAME:The Rialto Raleigh
 X-WR-TIMEZONE:America/New_York
 BEGIN:VTIMEZONE
 TZID:America/New_York
@@ -26,147 +26,455 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260526T190000
 DTEND;TZID=America/New_York:20260526T210000
-SUMMARY:Lincoln Theatre & The Rialto Present
+SUMMARY:The Rialto & Lincoln Theatre Present (Film/Event)
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Lincoln Theatre and The Rialto present a special screening/show
-  event. Doors: 6:15 PM\, Show: 7:00 PM. Tickets from $16.50.
+DESCRIPTION:Special screening or event co-presented by The Rialto and Linco
+ ln Theatre. Doors: 6:15 PM\, Show: 7:00 PM. Tickets from $16.50. Check the
+ rialto.com for full details.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-UID:232c5064a2d8b3d3@rialto-calendar
-DTSTAMP:20260525T120000Z
+UID:fa9aa15ac49c5497@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260529T210000
 DTEND;TZID=America/New_York:20260529T230000
-SUMMARY:The Rocky Horror Picture Show (Live Shadowcast) – Early Show
+SUMMARY:The Rocky Horror Picture Show – Live Early Show
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:The Rocky Horror Picture Show with live shadowcast performance 
- by The Low Down Cheap Little Punks – Raleigh's Rocky Horror cast. Specia
- l early show. Doors: 8:35 PM\, Show: 9:00 PM. Tickets $11. Interactive cul
- t classic with audience participation.
+DESCRIPTION:Special earlier-evening Rocky Horror Picture Show with live sha
+ dowcast by The Low Down Cheap Little Punks (5th-Friday bonus). Doors: 8:35
+  PM\, Show: 9:00 PM. Tickets $11.
 URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
  leigh-the-rialto
-UID:986e41d962023583@rialto-calendar
-DTSTAMP:20260525T120000Z
+UID:ad02861c01cb613a@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260530T183000
-DTEND;TZID=America/New_York:20260530T203000
-SUMMARY:Event at The Rialto (All Ages)
+DTSTART;TZID=America/New_York:20260529T235500
+DTEND;TZID=America/New_York:20260530T015500
+SUMMARY:The Rocky Horror Picture Show
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:All-ages show at The Rialto. Doors: 5:30 PM\, Show: 6:30 PM. Ti
- ckets $27.50–$103.50. Artist/title TBA – check therialto.com for detai
- ls.
-URL:https://www.etix.com/ticket/v/29980/the-rialto
-UID:deead9cfd0b52aac@rialto-calendar
-DTSTAMP:20260525T120000Z
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:a32364105f06b897@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260601T190000
 DTEND;TZID=America/New_York:20260601T210000
-SUMMARY:Stop Making Sense (Talking Heads – Concert Film)
+SUMMARY:Stop Making Sense (Talking Heads Concert Film)
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Monthly screening of Stop Making Sense – the acclaimed 1984 T
- alking Heads concert film directed by Jonathan Demme. Dancing encouraged! 
- Screens every first Monday of the month. Doors: 6:30 PM\, Show: 7:00 PM. T
- ickets $11.
-URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+DESCRIPTION:Stop Making Sense — the acclaimed 1984 Talking Heads concert 
+ film directed by Jonathan Demme. Considered the greatest concert film of a
+ ll time\, shot over three nights at the Pantages Theatre\, Hollywood. Danc
+ ing encouraged! Beer\, wine\, & concessions available. Doors: 6:30 PM\, Sh
+ ow: 7:00 PM. Tickets $11. Screens every first Monday of the month.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
  alto
-UID:0591db8c496e1934@rialto-calendar
-DTSTAMP:20260525T120000Z
+UID:30b6caac80f3ef68@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260602T190000
 DTEND;TZID=America/New_York:20260602T210000
 SUMMARY:NCModernist: Architecture Documentary Film Series
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:NCModernist documentary screening – celebrating North Carolin
- a's legacy of exceptional residential Modernist architecture. Monthly seri
- es presented by NCModernist\, a 501(c)3 nonprofit. Doors: 6:15 PM\, Show: 
- 7:00 PM. Tickets $17.60.
-URL:https://www.etix.com/ticket/v/29980/the-rialto
-UID:7f81bfc9c8e69119@rialto-calendar
-DTSTAMP:20260525T120000Z
+DESCRIPTION:NCModernist Architecture Movie Series — 15 years of bringing 
+ visually exciting architecture documentaries to the Triangle. Celebrating 
+ North Carolina's legacy of exceptional Modernist residential architecture.
+  Presented by NCModernist\, a 501(c)3 nonprofit. Doors: 6:15 PM\, Show: 7:
+ 00 PM. Tickets $17.60.
+URL:https://therialto.com/event/nc-modernist-movie-series/the-rialto-theatr
+ e/
+UID:8c7fd56168acd34c@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260605T235500
 DTEND;TZID=America/New_York:20260606T015500
-SUMMARY:The Rocky Horror Picture Show (Live Shadowcast) – Midnight Show
+SUMMARY:The Rocky Horror Picture Show
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:The Rocky Horror Picture Show with live shadowcast performance 
- by The Low Down Cheap Little Punks. Midnight show – every 1st\, 3rd\, an
- d 5th Friday. Doors: 11:30 PM\, Show: 11:55 PM. Tickets $11. Audience part
- icipation encouraged.
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
 URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
  leigh-the-rialto
-UID:d24f62337229c492@rialto-calendar
-DTSTAMP:20260525T120000Z
+UID:fc5515f72ce3c8ee@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260611T190000
 DTEND;TZID=America/New_York:20260611T210000
-SUMMARY:Event at The Rialto
+SUMMARY:Event at The Rialto (Title TBD)
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 DESCRIPTION:Show at The Rialto Theatre. Doors: 6:30 PM\, Show: 7:00 PM. Tic
- kets $11. Check therialto.com for details.
+ kets $11. Title/artist not yet announced — check therialto.com for full 
+ details.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-UID:a396e2507ecab7c1@rialto-calendar
-DTSTAMP:20260525T120000Z
+UID:01a047c0318c6014@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260612T190000
 DTEND;TZID=America/New_York:20260612T210000
-SUMMARY:Event at The Rialto
+SUMMARY:Event at The Rialto (Title TBD)
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 DESCRIPTION:Show at The Rialto Theatre. Doors: 6:30 PM\, Show: 7:00 PM. Tic
- kets $11. Check therialto.com for details.
+ kets $11. Title/artist not yet announced — check therialto.com for full 
+ details.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-UID:6f4ae5d3ec0f7595@rialto-calendar
-DTSTAMP:20260525T120000Z
+UID:024e1c4785d6e5a7@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260613T190000
 DTEND;TZID=America/New_York:20260613T210000
-SUMMARY:Event at The Rialto
+SUMMARY:Event at The Rialto (Title TBD)
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
 DESCRIPTION:Show at The Rialto Theatre. Doors: 6:30 PM\, Show: 7:00 PM. Tic
- kets $11. Check therialto.com for details.
+ kets $11. Title/artist not yet announced — check therialto.com for full 
+ details.
 URL:https://www.etix.com/ticket/v/29980/the-rialto
-UID:28724ebe94e21553@rialto-calendar
-DTSTAMP:20260525T120000Z
+UID:2e88c435278f59ea@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260726T200000
-DTEND;TZID=America/New_York:20260726T220000
-SUMMARY:Destin Conrad
+DTSTART;TZID=America/New_York:20260619T235500
+DTEND;TZID=America/New_York:20260620T015500
+SUMMARY:The Rocky Horror Picture Show
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Destin Conrad performs live at The Rialto Theatre Raleigh. Show
- : 8:00 PM. Tickets available at the venue website.
-URL:https://www.visitraleigh.com/event/destin-conrad/106627/
-UID:3f4eef0b82c147df@rialto-calendar
-DTSTAMP:20260525T120000Z
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:c6c0922ee9e374e5@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260828T200000
-DTEND;TZID=America/New_York:20260828T220000
-SUMMARY:Paula Poundstone (Comedy)
+DTSTART;TZID=America/New_York:20260703T235500
+DTEND;TZID=America/New_York:20260704T015500
+SUMMARY:The Rocky Horror Picture Show
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Comedy legend Paula Poundstone performs live at The Rialto Thea
- tre. Known for her sharp observations\, quick improvisation\, and NPR's Wa
- it Wait... Don't Tell Me. Show: 8:00 PM.
-URL:https://therialto.com/event/paula-poundstone-2/the-rialto-theatre/
-UID:6b316640ca9d42d1@rialto-calendar
-DTSTAMP:20260525T120000Z
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:d248b256edff86b7@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260912T200000
-DTEND;TZID=America/New_York:20260912T220000
-SUMMARY:Scythian
+DTSTART;TZID=America/New_York:20260706T190000
+DTEND;TZID=America/New_York:20260706T210000
+SUMMARY:Stop Making Sense (Talking Heads Concert Film)
 LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Scythian performs live at The Rialto Theatre Raleigh. High-ener
- gy Celtic-Americana fusion. Doors: 7:00 PM\, Show: 8:00 PM. Tickets $41.50
- –$56.50.
-URL:https://www.etix.com/ticket/v/29980/the-rialto
-UID:ce0e4a41ad68960e@rialto-calendar
-DTSTAMP:20260525T120000Z
+DESCRIPTION:Stop Making Sense — the acclaimed 1984 Talking Heads concert 
+ film directed by Jonathan Demme. Considered the greatest concert film of a
+ ll time\, shot over three nights at the Pantages Theatre\, Hollywood. Danc
+ ing encouraged! Beer\, wine\, & concessions available. Doors: 6:30 PM\, Sh
+ ow: 7:00 PM. Tickets $11. Screens every first Monday of the month.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+UID:64763f5198e260f6@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260717T235500
+DTEND;TZID=America/New_York:20260718T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:79eeebc4ba831185@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260731T235500
+DTEND;TZID=America/New_York:20260801T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:c76269b71a702cc1@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260802T143000
+DTEND;TZID=America/New_York:20260802T203000
+SUMMARY:Triangle Native American Film Festival
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The inaugural Triangle Native American Film Festival — featur
+ ing powerful films from Lumbee storytellers and Indigenous creators repres
+ enting Tribal Nations across the U.S.\, including Sundance shorts. Feature
+ d: Lumbeeland (Malinda Maynor Lowery\, Lumbee)\, Courage (Eric Hernandez\,
+  Lumbee)\, and Indigenous short films by Sundance filmmakers. Includes fil
+ mmaker panels\, food trucks with local Native chefs\, and an interactive f
+ ilmmaking tutorial by Lee Francis (Laguna Pueblo). Hosted by Triangle Nati
+ ve American Society. Starts: 2:30 PM.
+URL:https://therialto.com/event/triangle-native-american-film-festival/the-
+ rialto-theatre/
+UID:43d8772c852a8598@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260803T190000
+DTEND;TZID=America/New_York:20260803T210000
+SUMMARY:Stop Making Sense (Talking Heads Concert Film)
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Stop Making Sense — the acclaimed 1984 Talking Heads concert 
+ film directed by Jonathan Demme. Considered the greatest concert film of a
+ ll time\, shot over three nights at the Pantages Theatre\, Hollywood. Danc
+ ing encouraged! Beer\, wine\, & concessions available. Doors: 6:30 PM\, Sh
+ ow: 7:00 PM. Tickets $11. Screens every first Monday of the month.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+UID:f35b8ed28022ff00@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260807T235500
+DTEND;TZID=America/New_York:20260808T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:014bd2f066daa2b0@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260821T235500
+DTEND;TZID=America/New_York:20260822T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:8d2b32a356405388@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260904T235500
+DTEND;TZID=America/New_York:20260905T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:52a89fb206ecaade@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260907T190000
+DTEND;TZID=America/New_York:20260907T210000
+SUMMARY:Stop Making Sense (Talking Heads Concert Film)
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Stop Making Sense — the acclaimed 1984 Talking Heads concert 
+ film directed by Jonathan Demme. Considered the greatest concert film of a
+ ll time\, shot over three nights at the Pantages Theatre\, Hollywood. Danc
+ ing encouraged! Beer\, wine\, & concessions available. Doors: 6:30 PM\, Sh
+ ow: 7:00 PM. Tickets $11. Screens every first Monday of the month.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+UID:5734d6a970bda9b1@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260918T235500
+DTEND;TZID=America/New_York:20260919T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:1a26d5800d77a4a7@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261002T235500
+DTEND;TZID=America/New_York:20261003T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:79ae572b2108d416@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261005T190000
+DTEND;TZID=America/New_York:20261005T210000
+SUMMARY:Stop Making Sense (Talking Heads Concert Film)
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Stop Making Sense — the acclaimed 1984 Talking Heads concert 
+ film directed by Jonathan Demme. Considered the greatest concert film of a
+ ll time\, shot over three nights at the Pantages Theatre\, Hollywood. Danc
+ ing encouraged! Beer\, wine\, & concessions available. Doors: 6:30 PM\, Sh
+ ow: 7:00 PM. Tickets $11. Screens every first Monday of the month.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+UID:1138d0e589916d9c@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261016T235500
+DTEND;TZID=America/New_York:20261017T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:ce5060dada829cf1@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261030T235500
+DTEND;TZID=America/New_York:20261031T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:05bd4db0faefbefd@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261102T190000
+DTEND;TZID=America/New_York:20261102T210000
+SUMMARY:Stop Making Sense (Talking Heads Concert Film)
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Stop Making Sense — the acclaimed 1984 Talking Heads concert 
+ film directed by Jonathan Demme. Considered the greatest concert film of a
+ ll time\, shot over three nights at the Pantages Theatre\, Hollywood. Danc
+ ing encouraged! Beer\, wine\, & concessions available. Doors: 6:30 PM\, Sh
+ ow: 7:00 PM. Tickets $11. Screens every first Monday of the month.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+UID:25425f5b6f3fdde9@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261106T235500
+DTEND;TZID=America/New_York:20261107T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:02a890c4d43a4bf6@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261120T235500
+DTEND;TZID=America/New_York:20261121T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:6759e66901910c3c@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261204T235500
+DTEND;TZID=America/New_York:20261205T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:e775d3a14c16e7b3@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261207T190000
+DTEND;TZID=America/New_York:20261207T210000
+SUMMARY:Stop Making Sense (Talking Heads Concert Film)
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:Stop Making Sense — the acclaimed 1984 Talking Heads concert 
+ film directed by Jonathan Demme. Considered the greatest concert film of a
+ ll time\, shot over three nights at the Pantages Theatre\, Hollywood. Danc
+ ing encouraged! Beer\, wine\, & concessions available. Doors: 6:30 PM\, Sh
+ ow: 7:00 PM. Tickets $11. Screens every first Monday of the month.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+UID:a954a8884551a3f6@rialto-calendar
+DTSTAMP:20260525T200000Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261218T235500
+DTEND;TZID=America/New_York:20261219T015500
+SUMMARY:The Rocky Horror Picture Show
+LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
+DESCRIPTION:The Rocky Horror Picture Show with live shadowcast by The Low D
+ own Cheap Little Punks. Raleigh's cult classic midnight screening. Doors: 
+ 11:30 PM\, Show: 11:55 PM (midnight). Tickets $11. Audience participation 
+ encouraged — prop bags welcome. Shown every 1st\, 3rd\, and 5th Friday o
+ f the month.
+URL:https://www.etix.com/ticket/p/80930398/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+UID:04e7d97887b3df1b@rialto-calendar
+DTSTAMP:20260525T200000Z
 END:VEVENT
 END:VCALENDAR
