@@ -1,177 +1,168 @@
 BEGIN:VCALENDAR
+PRODID:-//Rialto Calendar Bot//EN
 VERSION:2.0
-PRODID:-//The Rialto Theatre//Events//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:The Rialto Theatre Events
+X-WR-CALNAME:The Rialto Raleigh
+X-WR-CALDESC:Upcoming film screenings at The Rialto Theatre\, 1620 Glenwood
+  Ave\, Raleigh\, NC
 X-WR-TIMEZONE:America/New_York
-
 BEGIN:VEVENT
-UID:rialto-cars-20260611@therialto.com
-DTSTART;TZID=America/New_York:20260611T173001
-DTEND;TZID=America/New_York:20260611T193000
-SUMMARY:Cars
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 5:00 PM | Show: 5:30 PM\nPrice: $11\nTickets: https://www.etix.com/ticket/p/54888902/cars-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/54888902/cars-raleigh-the-rialto?partner_id=100
+UID:e5f8d5fd1f273237fbe8f61de7e37105@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260617T230000Z
+DTEND:20260618T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. Tickets: $16.50.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-karatekid-20260612@therialto.com
-DTSTART;TZID=America/New_York:20260612T190000
-DTEND;TZID=America/New_York:20260612T210000
-SUMMARY:The Karate Kid
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:30 PM | Show: 7:00 PM\nPrice: $11\nTickets: https://www.etix.com/ticket/p/43142144/the-karate-kid-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/43142144/the-karate-kid-raleigh-the-rialto?partner_id=100
+UID:b5885aeb7f085973fc1677e9a82ab990@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260618T230000Z
+DTEND:20260619T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-aboveandbeyond-20260613@therialto.com
-DTSTART;TZID=America/New_York:20260613T190000
-DTEND;TZID=America/New_York:20260613T220000
-SUMMARY:Above and Beyond
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:30 PM | Show: 7:00 PM\nPrice: Free
+UID:86ae4f059feb4be71d958908d257f404@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260619T180000Z
+DTEND:20260619T192800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. NOTE: This screening
+  is SOLD OUT.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-gregallman-20260617@therialto.com
-DTSTART;TZID=America/New_York:20260617T190000
-DTEND;TZID=America/New_York:20260617T220000
-SUMMARY:Greg Allman: The Music of My Soul
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:30 PM | Show: 7:00 PM\nPrice: $16.50\nTickets: https://www.etix.com/ticket/p/76675802/greg-allmanthe-music-of-my-soul-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/76675802/greg-allmanthe-music-of-my-soul-raleigh-the-rialto?partner_id=100
+UID:3a006d069d9852b51570658a963ece43@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260620T035500Z
+DTEND:20260620T053500Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by the Low Down Cheap Little Pun
+ ks. Costumes encouraged! Doors at 11:30 PM. Tickets: $11.
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-indianajones-20260618@therialto.com
-DTSTART;TZID=America/New_York:20260618T190000
-DTEND;TZID=America/New_York:20260618T213000
-SUMMARY:Indiana Jones and the Last Crusade
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:30 PM | Show: 7:00 PM\nPrice: $11\nTickets: https://www.etix.com/ticket/p/79326510/indiana-jones-and-the-last-crusade-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/79326510/indiana-jones-and-the-last-crusade-raleigh-the-rialto?partner_id=100
+UID:5afbb0ae3c5a9c364d1bfd7a44c1b417@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260626T230000Z
+DTEND:20260627T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-fifawatchparty-20260619@therialto.com
-DTSTART;TZID=America/New_York:20260619T140000
-DTEND;TZID=America/New_York:20260619T160000
-SUMMARY:FIFA World Cup Watch Party: USA vs. Australia (SOLD OUT)
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Show: 2:00 PM\nStatus: SOLD OUT
+UID:f5065e6498d82a824e772dd79f7c77e2@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260630T230000Z
+DTEND:20260701T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-rockyhorror-20260619@therialto.com
-DTSTART;TZID=America/New_York:20260619T235500
-DTEND;TZID=America/New_York:20260620T015500
-SUMMARY:The Rocky Horror Picture Show (with The Low Down Cheap Little Punks)
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 11:30 PM | Show: 11:55 PM\nPrice: $11\nTickets: https://www.etix.com/ticket/p/60314050/the-rocky-horror-picture-show-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/60314050/the-rocky-horror-picture-show-raleigh-the-rialto?partner_id=100
+UID:ed6e40e4b6c0b025c07470e24c3964b4@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260701T230000Z
+DTEND:20260702T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-gratefuldead-20260621@therialto.com
-DTSTART;TZID=America/New_York:20260621T190000
-DTEND;TZID=America/New_York:20260621T220000
-SUMMARY:Father's Day with the Grateful Dead
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:15 PM | Show: 7:00 PM\nTickets: https://www.etix.com/ticket/p/68666692/fathers-day-with-the-grateful-dead-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/68666692/fathers-day-with-the-grateful-dead-raleigh-the-rialto?partner_id=100
+UID:610c1a3d6cf3c730ef871f14951aaf90@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260702T230000Z
+DTEND:20260703T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-jaws-20260626@therialto.com
-DTSTART;TZID=America/New_York:20260626T190000
-DTEND;TZID=America/New_York:20260626T210000
-SUMMARY:Jaws
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:30 PM | Show: 7:00 PM\nPrice: $11\nTickets: https://www.etix.com/ticket/p/82644545/jaws-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/82644545/jaws-raleigh-the-rialto?partner_id=100
+UID:fd3913dd8b64e9b01a80009f5ff8c9a7@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260704T035500Z
+DTEND:20260704T053500Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by the Low Down Cheap Little Pun
+ ks. Costumes encouraged! Doors at 11:30 PM. Tickets: $11.
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-sandlot-20260630@therialto.com
-DTSTART;TZID=America/New_York:20260630T190000
-DTEND;TZID=America/New_York:20260630T210000
-SUMMARY:The Sandlot
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:30 PM | Show: 7:00 PM\nPrice: $11\nTickets: https://www.etix.com/ticket/p/92324097/the-sandlot-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/92324097/the-sandlot-raleigh-the-rialto?partner_id=100
+UID:92e32a18a315b7fb78908e582c8709b7@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260707T000000Z
+DTEND:20260707T012800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Monthly first-M
+ onday screening with dancing encouraged! Doors at 7:30 PM. Tickets: $11.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-independenceday-20260701@therialto.com
-DTSTART;TZID=America/New_York:20260701T190000
-DTEND;TZID=America/New_York:20260701T210000
-SUMMARY:Independence Day
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:30 PM | Show: 7:00 PM\nPrice: $11\nTickets: https://www.etix.com/ticket/p/68092041/independence-day-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/68092041/independence-day-raleigh-the-rialto?partner_id=100
+UID:a0ed289ec262d3b1b0722822d33fefc1@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260718T035500Z
+DTEND:20260718T053500Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by the Low Down Cheap Little Pun
+ ks. Costumes encouraged! Doors at 11:30 PM. Tickets: $11.
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
 BEGIN:VEVENT
-UID:rialto-jaws-20260702@therialto.com
-DTSTART;TZID=America/New_York:20260702T190000
-DTEND;TZID=America/New_York:20260702T210000
-SUMMARY:Jaws
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 6:30 PM | Show: 7:00 PM\nPrice: $11\nTickets: https://www.etix.com/ticket/p/73759424/jaws-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/73759424/jaws-raleigh-the-rialto?partner_id=100
+UID:4c0a089e0c8767d7056177ba9492d96a@rialto-raleigh.local
+DTSTAMP:20260615T120000Z
+DTSTART:20260801T010000Z
+DTEND:20260801T024000Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by the Low Down Cheap Little Pun
+ ks. Costumes encouraged! 5th-Friday special - show at 9:00 PM. Tickets: $1
+ 1.
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
 END:VEVENT
-
-BEGIN:VEVENT
-UID:rialto-destinconrad-20260726@therialto.com
-DTSTART;TZID=America/New_York:20260726T200000
-DTEND;TZID=America/New_York:20260726T230000
-SUMMARY:Destin Conrad
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 7:00 PM | Show: 8:00 PM\nPrice: $36–$56.50\nTickets: https://www.etix.com/ticket/p/70526799/destin-conrad-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/70526799/destin-conrad-raleigh-the-rialto?partner_id=100
-END:VEVENT
-
-BEGIN:VEVENT
-UID:rialto-paulapoundstone-20260828@therialto.com
-DTSTART;TZID=America/New_York:20260828T200000
-DTEND;TZID=America/New_York:20260828T220000
-SUMMARY:Paula Poundstone
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 7:00 PM | Show: 8:00 PM\nPrice: $56.50–$91.50\nTickets: https://www.etix.com/ticket/p/36184565/paula-poundstone-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/36184565/paula-poundstone-raleigh-the-rialto?partner_id=100
-END:VEVENT
-
-BEGIN:VEVENT
-UID:rialto-scythian-20260912@therialto.com
-DTSTART;TZID=America/New_York:20260912T200000
-DTEND;TZID=America/New_York:20260912T230000
-SUMMARY:Scythian
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 7:00 PM | Show: 8:00 PM\nPrice: $41.50–$56.50\nTickets: https://www.etix.com/ticket/p/82008413/scythian-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/82008413/scythian-raleigh-the-rialto?partner_id=100
-END:VEVENT
-
-BEGIN:VEVENT
-UID:rialto-brettdennen-20261002@therialto.com
-DTSTART;TZID=America/New_York:20261002T200000
-DTEND;TZID=America/New_York:20261002T230000
-SUMMARY:Brett Dennen
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Doors: 7:00 PM | Show: 8:00 PM\nPrice: $40.25–$77.75\nTickets: https://www.etix.com/ticket/p/79775435/lincoln-theatre-presentsbrett-dennen-raleigh-the-rialto-lincoln-theatre?partner_id=100
-URL:https://www.etix.com/ticket/p/79775435/lincoln-theatre-presentsbrett-dennen-raleigh-the-rialto-lincoln-theatre?partner_id=100
-END:VEVENT
-
-BEGIN:VEVENT
-UID:rialto-faustinvincibleczars-20261003@therialto.com
-DTSTART;TZID=America/New_York:20261003T200000
-DTEND;TZID=America/New_York:20261003T230000
-SUMMARY:Faust\, by Invincible Czars
-LOCATION:The Rialto Theatre\, 1620 Glenwood Ave\, Raleigh\, NC 27608
-DESCRIPTION:Show: 8:00 PM\nPrice: $27.50–$38.50\nTickets: https://www.etix.com/ticket/p/76912289/faustby-invincible-czars-raleigh-the-rialto?partner_id=100
-URL:https://www.etix.com/ticket/p/76912289/faustby-invincible-czars-raleigh-the-rialto?partner_id=100
-END:VEVENT
-
 END:VCALENDAR
