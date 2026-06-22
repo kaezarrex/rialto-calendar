@@ -1,168 +1,190 @@
-BEGIN:VCALENDAR
-PRODID:-//Rialto Calendar Bot//EN
-VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:The Rialto Raleigh
-X-WR-CALDESC:Upcoming film screenings at The Rialto Theatre\, 1620 Glenwood
-  Ave\, Raleigh\, NC
-X-WR-TIMEZONE:America/New_York
-BEGIN:VEVENT
-UID:e5f8d5fd1f273237fbe8f61de7e37105@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260617T230000Z
-DTEND:20260618T002800Z
-SUMMARY:Stop Making Sense
-DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
- han Demme. Considered the greatest concert film ever made. Part of the Sto
- p Making Sense 40th Anniversary series at The Rialto. Tickets: $16.50.
-URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
- alto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:b5885aeb7f085973fc1677e9a82ab990@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260618T230000Z
-DTEND:20260619T002800Z
-SUMMARY:Stop Making Sense
-DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
- han Demme. Considered the greatest concert film ever made. Part of the Sto
- p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
-URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
- alto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:86ae4f059feb4be71d958908d257f404@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260619T180000Z
-DTEND:20260619T192800Z
-SUMMARY:Stop Making Sense
-DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
- han Demme. Considered the greatest concert film ever made. Part of the Sto
- p Making Sense 40th Anniversary series at The Rialto. NOTE: This screening
-  is SOLD OUT.
-URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
- alto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:3a006d069d9852b51570658a963ece43@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260620T035500Z
-DTEND:20260620T053500Z
-SUMMARY:The Rocky Horror Picture Show
-DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
-  Featuring a live shadow cast performance by the Low Down Cheap Little Pun
- ks. Costumes encouraged! Doors at 11:30 PM. Tickets: $11.
-URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
- leigh-the-rialto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:5afbb0ae3c5a9c364d1bfd7a44c1b417@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260626T230000Z
-DTEND:20260627T002800Z
-SUMMARY:Stop Making Sense
-DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
- han Demme. Considered the greatest concert film ever made. Part of the Sto
- p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
-URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
- alto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:f5065e6498d82a824e772dd79f7c77e2@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260630T230000Z
-DTEND:20260701T002800Z
-SUMMARY:Stop Making Sense
-DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
- han Demme. Considered the greatest concert film ever made. Part of the Sto
- p Making Sense 40th Anniversary series at The Rialto.
-URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
- alto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:ed6e40e4b6c0b025c07470e24c3964b4@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260701T230000Z
-DTEND:20260702T002800Z
-SUMMARY:Stop Making Sense
-DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
- han Demme. Considered the greatest concert film ever made. Part of the Sto
- p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
-URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
- alto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:610c1a3d6cf3c730ef871f14951aaf90@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260702T230000Z
-DTEND:20260703T002800Z
-SUMMARY:Stop Making Sense
-DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
- han Demme. Considered the greatest concert film ever made. Part of the Sto
- p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
-URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
- alto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:fd3913dd8b64e9b01a80009f5ff8c9a7@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260704T035500Z
-DTEND:20260704T053500Z
-SUMMARY:The Rocky Horror Picture Show
-DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
-  Featuring a live shadow cast performance by the Low Down Cheap Little Pun
- ks. Costumes encouraged! Doors at 11:30 PM. Tickets: $11.
-URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
- leigh-the-rialto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:92e32a18a315b7fb78908e582c8709b7@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260707T000000Z
-DTEND:20260707T012800Z
-SUMMARY:Stop Making Sense
-DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
- han Demme. Considered the greatest concert film ever made. Monthly first-M
- onday screening with dancing encouraged! Doors at 7:30 PM. Tickets: $11.
-URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
- alto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:a0ed289ec262d3b1b0722822d33fefc1@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260718T035500Z
-DTEND:20260718T053500Z
-SUMMARY:The Rocky Horror Picture Show
-DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
-  Featuring a live shadow cast performance by the Low Down Cheap Little Pun
- ks. Costumes encouraged! Doors at 11:30 PM. Tickets: $11.
-URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
- leigh-the-rialto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-BEGIN:VEVENT
-UID:4c0a089e0c8767d7056177ba9492d96a@rialto-raleigh.local
-DTSTAMP:20260615T120000Z
-DTSTART:20260801T010000Z
-DTEND:20260801T024000Z
-SUMMARY:The Rocky Horror Picture Show
-DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
-  Featuring a live shadow cast performance by the Low Down Cheap Little Pun
- ks. Costumes encouraged! 5th-Friday special - show at 9:00 PM. Tickets: $1
- 1.
-URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
- leigh-the-rialto
-LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+PRODID:-//Rialto Calendar Bot//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Rialto Raleigh
+X-WR-CALDESC:Upcoming film screenings at The Rialto Theatre\, 1620 Glenwood
+  Ave\, Raleigh\, NC
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:e5f8d5fd1f273237fbe8f61de7e37105@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260617T230000Z
+DTEND:20260618T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. Tickets: $16.50.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:b5885aeb7f085973fc1677e9a82ab990@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260618T230000Z
+DTEND:20260619T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. Tickets: $11.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:86ae4f059feb4be71d958908d257f404@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260619T180000Z
+DTEND:20260619T192800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered the greatest concert film ever made. Part of the Sto
+ p Making Sense 40th Anniversary series at The Rialto. NOTE: This screening
+  is SOLD OUT.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:3a006d069d9852b51570658a963ece43@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260620T035500Z
+DTEND:20260620T053500Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by The Low Down Cheap Little Pun
+ ks. Audience participation encouraged! Costumes welcome. Doors at 11:30 PM
+ . Tickets: $11.
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:5afbb0ae3c5a9c364d1bfd7a44c1b417@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260626T230000Z
+DTEND:20260627T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered by critics as the greatest concert film of all time.
+  Part of the Music at the Movies series at The Rialto. Dancing encouraged!
+  Tickets: $11.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0921338feeccc422204171932248d5@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260627T035500Z
+DTEND:20260627T053500Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by The Low Down Cheap Little Pun
+ ks. Audience participation encouraged! Costumes welcome. Doors at 11:30 PM
+ . Tickets: $11.
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:f5065e6498d82a824e772dd79f7c77e2@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260630T230000Z
+DTEND:20260701T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered by critics as the greatest concert film of all time.
+  Part of the Music at the Movies series at The Rialto. Dancing encouraged!
+  Tickets: $11.
+URL:https://www.etix.com/ticket/p/80853040/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6e40e4b6c0b025c07470e24c3964b4@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260701T230000Z
+DTEND:20260702T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered by critics as the greatest concert film of all time.
+  Part of the Music at the Movies series at The Rialto. Dancing encouraged!
+  Tickets: $11.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:610c1a3d6cf3c730ef871f14951aaf90@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260702T230000Z
+DTEND:20260703T002800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered by critics as the greatest concert film of all time.
+  Part of the Music at the Movies series at The Rialto. Dancing encouraged!
+  Tickets: $11.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3913dd8b64e9b01a80009f5ff8c9a7@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260704T035500Z
+DTEND:20260704T053500Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by The Low Down Cheap Little Pun
+ ks. Audience participation encouraged! Costumes welcome. Doors at 11:30 PM
+ . Tickets: $11.
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:92e32a18a315b7fb78908e582c8709b7@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260707T000000Z
+DTEND:20260707T012800Z
+SUMMARY:Stop Making Sense
+DESCRIPTION:The legendary 1984 Talking Heads concert film directed by Jonat
+ han Demme. Considered by critics as the greatest concert film of all time.
+  Monthly first-Monday screening — dancing encouraged! Doors at 7:30 PM. 
+ Tickets: $11.
+URL:https://www.etix.com/ticket/p/81253526/stop-making-sense-raleigh-the-ri
+ alto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:a0ed289ec262d3b1b0722822d33fefc1@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260718T035500Z
+DTEND:20260718T053500Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by The Low Down Cheap Little Pun
+ ks. Audience participation encouraged! Costumes welcome. Doors at 11:30 PM
+ . Tickets: $11.
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0a089e0c8767d7056177ba9492d96a@rialto-raleigh.local
+DTSTAMP:20260622T120000Z
+DTSTART:20260801T010000Z
+DTEND:20260801T024000Z
+SUMMARY:The Rocky Horror Picture Show
+DESCRIPTION:The cult classic midnight movie (1975) directed by Jim Sharman.
+  Featuring a live shadow cast performance by The Low Down Cheap Little Pun
+ ks. 5th-Friday special — show at 9:00 PM. Costumes welcome. Tickets: $11
+ .
+URL:https://www.etix.com/ticket/p/69299568/the-rocky-horror-picture-show-ra
+ leigh-the-rialto
+LOCATION:1620 Glenwood Ave\, Raleigh\, NC 27608
+END:VEVENT
+END:VCALENDAR
